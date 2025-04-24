@@ -1,0 +1,99 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Patient.Api</name>
+    </assembly>
+    <members>
+        <member name="T:Patient.Api.Controllers.PatientsController">
+            <summary>
+            Controller for managing patients.
+            Provides methods for creating, updating, deleting, and getting information about patients.
+            </summary>
+        </member>
+        <member name="M:Patient.Api.Controllers.PatientsController.CreatePatientAsync(Patient.Application.Handlers.Commands.CreatePatient.CreatePatientCommand,MediatR.IMediator,System.Threading.CancellationToken)">
+            <summary>
+            Create new patient
+            </summary>
+            <param name="createPatientCommand">Command to create patient</param>
+            <param name="cancellationToken">Cancellation token</param>
+            <param name="mediator">Mediator for processing commands</param>
+            <returns>Created patient</returns>
+        </member>
+        <member name="M:Patient.Api.Controllers.PatientsController.DeleteAsync(System.String,MediatR.IMediator,System.Threading.CancellationToken)">
+            <summary>
+            Delete patient by ID
+            </summary>
+            <param name="patientId">Patient ID</param>
+            <param name="mediator">Mediator for processing commands</param>
+            <param name="cancellationToken">Cancellation token</param>
+            <returns>Operation execution status</returns>
+        </member>
+        <member name="M:Patient.Api.Controllers.PatientsController.UpdateAsync(System.String,Booking.Application.Handlers.Booking.Commands.UpdateBooking.UpdatePatientPayload,MediatR.IMediator,System.Threading.CancellationToken)">
+            <summary>
+            Update patient information by ID
+            </summary>
+            <param name="patientId">Patient ID</param>
+            <param name="payload">Patient update data</param>
+            <param name="mediator">Mediator for processing commands</param>
+            <param name="cancellationToken">Cancellation token</param>
+            <returns>Updated patient</returns>
+        </member>
+        <member name="M:Patient.Api.Controllers.PatientsController.GetByIdAsync(System.String,MediatR.IMediator,System.Threading.CancellationToken)">
+            <summary>
+            Get patient by ID
+            </summary>
+            <param name="patientId">Patient ID</param>
+            <param name="mediator">Mediator for handling requests</param>
+            <param name="cancellationToken">Cancellation token</param>
+            <returns>Patient with the specified identifier</returns>
+        </member>
+        <member name="M:Patient.Api.Controllers.PatientsController.GetByBirthDateAsync(System.String,MediatR.IMediator)">
+            <summary>
+            Search for patients by date of birth
+            </summary>
+            <param name="birthDate">Start date</param>
+            <param name="mediator">Mediator for processing requests</param>
+            <returns>List of patients</returns>
+        </member>
+        <member name="T:Patient.Api.DependencyInjection">
+            <summary>
+            Class for configuring dependencies in the application
+            Contains methods for adding Swagger and other services to the dependency container
+            </summary>
+        </member>
+        <member name="M:Patient.Api.DependencyInjection.AddSwaggerDescription(Microsoft.Extensions.DependencyInjection.IServiceCollection,System.Reflection.Assembly,System.String,System.String,System.String)">
+            <summary>
+            Adds the Swagger description to the dependency container
+            </summary>
+            <param name="services">The collection of services to configure</param>
+            <param name="apiAssembly">The API assembly to get the name of the XML documentation file</param>
+            <param name="appName">The application name</param>
+            <param name="version">The API version</param>
+            <param name="description">The API description</param>
+            <returns>The updated collection of services</returns>
+        </member>
+        <member name="T:Patient.Api.Middlewares.CoreExceptionsHandlerMiddlewareExtensions">
+            <summary>
+            Extensions for using exception handling middleware
+            </summary>
+        </member>
+        <member name="M:Patient.Api.Middlewares.CoreExceptionsHandlerMiddlewareExtensions.UseExceptionHandlerMiddleware(Microsoft.AspNetCore.Builder.IApplicationBuilder)">
+            <summary>
+            Adds exception handling middleware to the request processing pipeline
+            </summary>
+            <param name="builder">Application builder</param>
+            <returns>Application builder with added middleware</returns>
+        </member>
+        <member name="T:Patient.Api.WebApplicationExtensions">
+            <summary>
+            Extensions for Patient.Api
+            </summary>
+        </member>
+        <member name="M:Patient.Api.WebApplicationExtensions.RunDbMigrations(Microsoft.AspNetCore.Builder.WebApplication)">
+            <summary>
+            Run a database migration
+            </summary>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

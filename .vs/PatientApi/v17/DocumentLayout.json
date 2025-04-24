@@ -1,0 +1,221 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\PatientApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{970DC80A-8C48-46AD-B106-453F7198CE4C}|Patient.Api\\Patient.Api.csproj|c:\\users\\user\\desktop\\patientapi\\patient.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{970DC80A-8C48-46AD-B106-453F7198CE4C}|Patient.Api\\Patient.Api.csproj|solutionrelative:patient.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{970DC80A-8C48-46AD-B106-453F7198CE4C}|Patient.Api\\Patient.Api.csproj|C:\\Users\\User\\Desktop\\PatientApi\\patient.api\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{970DC80A-8C48-46AD-B106-453F7198CE4C}|Patient.Api\\Patient.Api.csproj|solutionrelative:patient.api\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EE990D0-E309-457E-82E1-CABAB071ECA3}|PatientConsoleApp\\PatientConsoleApp.csproj|C:\\Users\\User\\Desktop\\PatientApi\\patientconsoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EE990D0-E309-457E-82E1-CABAB071ECA3}|PatientConsoleApp\\PatientConsoleApp.csproj|solutionrelative:patientconsoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B809D6BE-0171-4111-B5FD-4963346E9B5B}|docker-compose.dcproj|C:\\Users\\User\\Desktop\\PatientApi\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B809D6BE-0171-4111-B5FD-4963346E9B5B}|docker-compose.dcproj|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47A7B996-A211-445B-A1A4-C71B0027F121}|Patient.Application\\Patient.Application.csproj|C:\\Users\\User\\Desktop\\PatientApi\\patient.application\\handlers\\queries\\getpatientbybirthdate\\getpatientbybirthdatequeryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47A7B996-A211-445B-A1A4-C71B0027F121}|Patient.Application\\Patient.Application.csproj|solutionrelative:patient.application\\handlers\\queries\\getpatientbybirthdate\\getpatientbybirthdatequeryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{970DC80A-8C48-46AD-B106-453F7198CE4C}|Patient.Api\\Patient.Api.csproj|C:\\Users\\User\\Desktop\\PatientApi\\patient.api\\controllers\\patientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{970DC80A-8C48-46AD-B106-453F7198CE4C}|Patient.Api\\Patient.Api.csproj|solutionrelative:patient.api\\controllers\\patientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B809D6BE-0171-4111-B5FD-4963346E9B5B}|docker-compose.dcproj|C:\\Users\\User\\Desktop\\PatientApi\\nginx.conf||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{B809D6BE-0171-4111-B5FD-4963346E9B5B}|docker-compose.dcproj|solutionrelative:nginx.conf||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47A7B996-A211-445B-A1A4-C71B0027F121}|Patient.Application\\Patient.Application.csproj|C:\\Users\\User\\Desktop\\PatientApi\\patient.application\\handlers\\commands\\updatepatient\\updatepatientcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47A7B996-A211-445B-A1A4-C71B0027F121}|Patient.Application\\Patient.Application.csproj|solutionrelative:patient.application\\handlers\\commands\\updatepatient\\updatepatientcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47A7B996-A211-445B-A1A4-C71B0027F121}|Patient.Application\\Patient.Application.csproj|C:\\Users\\User\\Desktop\\PatientApi\\patient.application\\handlers\\commands\\updatepatient\\updatepatientpayload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47A7B996-A211-445B-A1A4-C71B0027F121}|Patient.Application\\Patient.Application.csproj|solutionrelative:patient.application\\handlers\\commands\\updatepatient\\updatepatientpayload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47A7B996-A211-445B-A1A4-C71B0027F121}|Patient.Application\\Patient.Application.csproj|C:\\Users\\User\\Desktop\\PatientApi\\patient.application\\mapping\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47A7B996-A211-445B-A1A4-C71B0027F121}|Patient.Application\\Patient.Application.csproj|solutionrelative:patient.application\\mapping\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47A7B996-A211-445B-A1A4-C71B0027F121}|Patient.Application\\Patient.Application.csproj|C:\\Users\\User\\Desktop\\PatientApi\\patient.application\\handlers\\commands\\createpatient\\createpatientcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47A7B996-A211-445B-A1A4-C71B0027F121}|Patient.Application\\Patient.Application.csproj|solutionrelative:patient.application\\handlers\\commands\\createpatient\\createpatientcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47A7B996-A211-445B-A1A4-C71B0027F121}|Patient.Application\\Patient.Application.csproj|C:\\Users\\User\\Desktop\\PatientApi\\patient.application\\handlers\\commands\\deletepatient\\deletepatientcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47A7B996-A211-445B-A1A4-C71B0027F121}|Patient.Application\\Patient.Application.csproj|solutionrelative:patient.application\\handlers\\commands\\deletepatient\\deletepatientcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "README.txt",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\PatientApi\\Patient.Api\\README.txt",
+              "RelativeDocumentMoniker": "Patient.Api\\README.txt",
+              "ToolTip": "C:\\Users\\User\\Desktop\\PatientApi\\Patient.Api\\README.txt",
+              "RelativeToolTip": "Patient.Api\\README.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAABXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-04-24T06:52:17.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\PatientApi\\Patient.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "Patient.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\User\\Desktop\\PatientApi\\Patient.Api\\appsettings.json",
+              "RelativeToolTip": "Patient.Api\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-23T18:55:16.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\PatientApi\\PatientConsoleApp\\Program.cs",
+              "RelativeDocumentMoniker": "PatientConsoleApp\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\PatientApi\\PatientConsoleApp\\Program.cs",
+              "RelativeToolTip": "PatientConsoleApp\\Program.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAAwEYAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T07:53:46.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PatientsController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\PatientApi\\Patient.Api\\Controllers\\PatientsController.cs",
+              "RelativeDocumentMoniker": "Patient.Api\\Controllers\\PatientsController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\PatientApi\\Patient.Api\\Controllers\\PatientsController.cs",
+              "RelativeToolTip": "Patient.Api\\Controllers\\PatientsController.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAIBQwGcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T17:16:30.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GetPatientByBirthDateQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\PatientApi\\Patient.Application\\Handlers\\Queries\\GetPatientByBirthDate\\GetPatientByBirthDateQueryHandler.cs",
+              "RelativeDocumentMoniker": "Patient.Application\\Handlers\\Queries\\GetPatientByBirthDate\\GetPatientByBirthDateQueryHandler.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\PatientApi\\Patient.Application\\Handlers\\Queries\\GetPatientByBirthDate\\GetPatientByBirthDateQueryHandler.cs",
+              "RelativeToolTip": "Patient.Application\\Handlers\\Queries\\GetPatientByBirthDate\\GetPatientByBirthDateQueryHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T12:29:04.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\PatientApi\\docker-compose.yml",
+              "RelativeDocumentMoniker": "docker-compose.yml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\PatientApi\\docker-compose.yml",
+              "RelativeToolTip": "docker-compose.yml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-04-23T18:44:23.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UpdatePatientCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\PatientApi\\Patient.Application\\Handlers\\Commands\\UpdatePatient\\UpdatePatientCommandHandler.cs",
+              "RelativeDocumentMoniker": "Patient.Application\\Handlers\\Commands\\UpdatePatient\\UpdatePatientCommandHandler.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\PatientApi\\Patient.Application\\Handlers\\Commands\\UpdatePatient\\UpdatePatientCommandHandler.cs",
+              "RelativeToolTip": "Patient.Application\\Handlers\\Commands\\UpdatePatient\\UpdatePatientCommandHandler.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAYwDMAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T12:07:07.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "nginx.conf",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\PatientApi\\nginx.conf",
+              "RelativeDocumentMoniker": "nginx.conf",
+              "ToolTip": "C:\\Users\\User\\Desktop\\PatientApi\\nginx.conf",
+              "RelativeToolTip": "nginx.conf",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-23T19:16:03.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AutoMapperProfile.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\PatientApi\\Patient.Application\\Mapping\\AutoMapperProfile.cs",
+              "RelativeDocumentMoniker": "Patient.Application\\Mapping\\AutoMapperProfile.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\PatientApi\\Patient.Application\\Mapping\\AutoMapperProfile.cs",
+              "RelativeToolTip": "Patient.Application\\Mapping\\AutoMapperProfile.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAwCAAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T13:02:26.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UpdatePatientPayload.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\PatientApi\\Patient.Application\\Handlers\\Commands\\UpdatePatient\\UpdatePatientPayload.cs",
+              "RelativeDocumentMoniker": "Patient.Application\\Handlers\\Commands\\UpdatePatient\\UpdatePatientPayload.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\PatientApi\\Patient.Application\\Handlers\\Commands\\UpdatePatient\\UpdatePatientPayload.cs",
+              "RelativeToolTip": "Patient.Application\\Handlers\\Commands\\UpdatePatient\\UpdatePatientPayload.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T17:16:40.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CreatePatientCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\PatientApi\\Patient.Application\\Handlers\\Commands\\CreatePatient\\CreatePatientCommandHandler.cs",
+              "RelativeDocumentMoniker": "Patient.Application\\Handlers\\Commands\\CreatePatient\\CreatePatientCommandHandler.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\PatientApi\\Patient.Application\\Handlers\\Commands\\CreatePatient\\CreatePatientCommandHandler.cs",
+              "RelativeToolTip": "Patient.Application\\Handlers\\Commands\\CreatePatient\\CreatePatientCommandHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T16:57:39.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DeletePatientCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\PatientApi\\Patient.Application\\Handlers\\Commands\\DeletePatient\\DeletePatientCommandHandler.cs",
+              "RelativeDocumentMoniker": "Patient.Application\\Handlers\\Commands\\DeletePatient\\DeletePatientCommandHandler.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\PatientApi\\Patient.Application\\Handlers\\Commands\\DeletePatient\\DeletePatientCommandHandler.cs",
+              "RelativeToolTip": "Patient.Application\\Handlers\\Commands\\DeletePatient\\DeletePatientCommandHandler.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T12:19:16.326Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

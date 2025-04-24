@@ -1,0 +1,97 @@
+[
+  {
+    "ContainingType": "Patient.Api.Controllers.PatientsController",
+    "Method": "CreatePatientAsync",
+    "RelativePath": "Patient",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "createPatientCommand",
+        "Type": "Patient.Application.Handlers.Commands.CreatePatient.CreatePatientCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Patient.Api.Controllers.PatientsController",
+    "Method": "DeleteAsync",
+    "RelativePath": "Patient/{patientId}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "patientId",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Patient.Api.Controllers.PatientsController",
+    "Method": "UpdateAsync",
+    "RelativePath": "Patient/{patientId}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "patientId",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "payload",
+        "Type": "Booking.Application.Handlers.Booking.Commands.UpdateBooking.UpdatePatientPayload",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Patient.Application.DTOs.PatientDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Patient.Api.Controllers.PatientsController",
+    "Method": "GetByIdAsync",
+    "RelativePath": "Patient/{patientId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "patientId",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Patient.Api.Controllers.PatientsController",
+    "Method": "GetByBirthDateAsync",
+    "RelativePath": "Patient/BirthDate",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "birthDate",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
